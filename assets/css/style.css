@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+
+
+.header{
+    width: 100%;
+}
+
+.headerStyle{
+    color: #73e9c2;
+    margin-bottom: 0px;
+}
+
+.subtitle{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+
+.card.image{
+    margin: 15px;
+   
+}
+
+.card{
+    margin: 10px;
+    border-radius: 75%;
+}
+
+.description{
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.card-text{
+    margin: 0px;
+}
+
+.card:hover{
+    -webkit-filter: grayscale(0);
+    -webkit-transform: scale(1.05);
+}
+
